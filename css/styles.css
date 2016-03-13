@@ -1,0 +1,13 @@
+ img {
+width: 250px;
+ }
+
+body {
+    background-color: yellow;
+}
+
+ .home-page-jumbotron {
+  background-color: red;
+  height: 500px;
+  background-image:url("http://oxxotravel.com/wp-content/uploads/st_uploadfont/Kukulcan-Pyramid-at-Chichen-Itza-Mexico-1600x12001.jpg");
+ }
